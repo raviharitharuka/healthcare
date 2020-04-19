@@ -8,4 +8,3 @@ Technologies/tools
 
 RESTful Web service: Java - JAX-RS (Jersy) on Tomcat
 DB: MySQL
-Client: compatible test client as, which will be discussed in practical classes
